@@ -85,6 +85,8 @@ define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
+/** Disable the built-in theme/plugin file editor so a stolen admin login cannot be used to inject PHP. */
+define( 'DISALLOW_FILE_EDIT', true );
 
 
 /* That's all, stop editing! Happy publishing. */
