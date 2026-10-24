@@ -1,0 +1,2 @@
+# Backup folder: never serve over the web.
+Require all denied
