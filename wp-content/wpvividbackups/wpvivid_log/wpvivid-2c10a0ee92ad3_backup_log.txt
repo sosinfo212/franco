@@ -1,0 +1,108 @@
+Log created: 2025-06-01 20:11:35
+Type: backup
+[2025-06-01 20:11:35][notice]Start backing up.
+[2025-06-01 20:11:35][notice]server info fcgi:Off max execution time: 300 wp version:6.8.1 php version:8.2.28 db version:10.6.18 php ini:safe_mode: memory_limit:512M memory_get_usage:7.01 MB memory_get_peak_usage:7.57 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2025-06-01 20:11:35][notice]Prepare to backup backup_db files.
+[2025-06-01 20:11:35][notice]Start exporting database.
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_bwg_album
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_bwg_album_gallery
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_bwg_file_paths
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_bwg_gallery
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_bwg_image_comment
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_bwg_image_rate
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_bwg_image_tag
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_bwg_shortcode
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_lp_popups
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_reviewx_criterias
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_reviewx_import_history
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_reviewx_process_jobs
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_reviewx_reminder_email
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_revslider_layer_animations
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_revslider_navigations
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_wpforms_logs
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_wpforms_tasks_meta
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_wpsr_caches
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_wpsr_optimize_images
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_wpsr_reviews
+[2025-06-01 20:11:35][notice]Preparing to dump table wppg_actionscheduler_claims
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_actionscheduler_groups
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_e_events
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_links
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_revslider_static_slides
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_term_relationships
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_actionscheduler_logs
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_bwg_image
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_commentmeta
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_e_submissions_values
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_litespeed_crawler
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_litespeed_crawler_blacklist
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_litespeed_url
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_term_taxonomy
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_termmeta
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_terms
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_usermeta
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_e_notes_users_relations
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_users
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_wpforms_payment_meta
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_bwg_theme
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_comments
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_legal_pages
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_litespeed_url_file
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_e_submissions_actions_log
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_revslider_css
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_revslider_sliders7
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_wpforms_payments
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_actionscheduler_actions
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_e_notes
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_revslider_sliders
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_e_submissions
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_revslider_slides7
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_options
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_revslider_slides
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_posts
+[2025-06-01 20:11:36][notice]Preparing to dump table wppg_postmeta
+[2025-06-01 20:11:36][notice]Exporting database finished.
+[2025-06-01 20:11:36][notice]Start compressing database
+[2025-06-01 20:11:36][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_db.sql
+[2025-06-01 20:11:37][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_db.part001.zip, filesize: 1.42 MB
+[2025-06-01 20:11:37][notice]Compressing database completed
+[2025-06-01 20:11:37][notice]Backing up backup_db completed.
+[2025-06-01 20:11:37][notice]Prepare to backup backup_themes files.
+[2025-06-01 20:11:37][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_themes.part001.zip index:994
+[2025-06-01 20:11:39][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_themes.part001.zip success. index:994 file size:20.77 MB
+[2025-06-01 20:11:39][notice]Backing up backup_themes completed.
+[2025-06-01 20:11:39][notice]Prepare to backup backup_plugin files.
+[2025-06-01 20:11:40][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_plugin.part001.zip index:4744
+[2025-06-01 20:11:50][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_plugin.part001.zip success. index:4744 file size:30.37 MB
+[2025-06-01 20:11:50][notice]Backing up backup_plugin completed.
+[2025-06-01 20:11:50][notice]Prepare to backup backup_uploads files.
+[2025-06-01 20:11:51][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_uploads.part001.zip index:729
+[2025-06-01 20:12:01][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_uploads.part001.zip success. index:729 file size:199.76 MB
+[2025-06-01 20:12:03][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_uploads.part002.zip index:1753
+[2025-06-01 20:12:09][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_uploads.part002.zip success. index:1753 file size:136.50 MB
+[2025-06-01 20:12:11][notice]Backing up backup_uploads completed.
+[2025-06-01 20:12:11][notice]Prepare to backup backup_content files.
+[2025-06-01 20:12:11][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_content.part001.zip index:2
+[2025-06-01 20:12:11][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_content.part001.zip success. index:2 file size:682.00 B
+[2025-06-01 20:12:11][notice]Backing up backup_content completed.
+[2025-06-01 20:12:11][notice]Prepare to backup backup_core files.
+[2025-06-01 20:12:12][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_core.part001.zip index:2808
+[2025-06-01 20:12:17][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_core.part001.zip success. index:2808 file size:14.50 MB
+[2025-06-01 20:12:17][notice]Backing up backup_core completed.
+[2025-06-01 20:12:17][notice]Prepare to backup backup_merge files.
+[2025-06-01 20:12:17][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_db.zip
+[2025-06-01 20:12:17][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_all.part001.zip, filesize: 1.27 MB
+[2025-06-01 20:12:17][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_themes.zip
+[2025-06-01 20:12:18][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_all.part001.zip, filesize: 21.89 MB
+[2025-06-01 20:12:18][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_plugin.zip
+[2025-06-01 20:12:20][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_all.part001.zip, filesize: 51.30 MB
+[2025-06-01 20:12:21][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_uploads.part001.zip
+[2025-06-01 20:12:28][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_all.part002.zip, filesize: 199.73 MB
+[2025-06-01 20:12:31][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_uploads.part002.zip
+[2025-06-01 20:12:36][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_all.part003.zip, filesize: 136.41 MB
+[2025-06-01 20:12:36][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_content.zip
+[2025-06-01 20:12:38][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_all.part003.zip, filesize: 136.41 MB
+[2025-06-01 20:12:38][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_core.zip
+[2025-06-01 20:12:40][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-2c10a0ee92ad3_2025-06-01-20-11_backup_all.part003.zip, filesize: 150.49 MB
+[2025-06-01 20:12:42][notice]Backing up backup_merge completed.
+[2025-06-01 20:12:42][notice]Backup completed.

@@ -1,0 +1,536 @@
+Log created: 2025-09-19 18:29:24
+Type: backup
+[2025-09-19 18:29:25][notice]Start backing up.
+[2025-09-19 18:29:25][notice]server info fcgi:Off max execution time: 300 wp version:6.8.2 php version:8.2.29 db version:10.6.18 php ini:safe_mode: memory_limit:512M memory_get_usage:14.77 MB memory_get_peak_usage:15.33 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2025-09-19 18:29:25][notice]Prepare to backup backup_db files.
+[2025-09-19 18:29:25][notice]Start exporting database.
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_album
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_album_gallery
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_file_paths
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_gallery
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_image_comment
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_image_rate
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_image_tag
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_shortcode
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_lp_popups
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_reviewx_criterias
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_reviewx_import_history
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_reviewx_process_jobs
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_reviewx_reminder_email
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_revslider_layer_animations
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_revslider_navigations
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_wpforms_logs
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_wpforms_tasks_meta
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_wpsr_caches
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_wpsr_optimize_images
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_wpsr_reviews
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_actionscheduler_claims
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_actionscheduler_groups
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_e_events
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_links
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_revslider_static_slides
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_term_relationships
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_actionscheduler_logs
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_image
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_commentmeta
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_e_submissions_values
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_litespeed_crawler
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_litespeed_crawler_blacklist
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_litespeed_url
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_term_taxonomy
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_termmeta
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_terms
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_usermeta
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_e_notes_users_relations
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_users
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_wpforms_payment_meta
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_bwg_theme
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_legal_pages
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_litespeed_url_file
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_e_submissions_actions_log
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_revslider_css
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_revslider_sliders7
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_wpforms_payments
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_actionscheduler_actions
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_e_notes
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_revslider_sliders
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_e_submissions
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_revslider_slides7
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_comments
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_options
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_revslider_slides
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_posts
+[2025-09-19 18:29:25][notice]Preparing to dump table wppg_postmeta
+[2025-09-19 18:29:26][notice]Exporting database finished.
+[2025-09-19 18:29:26][notice]Start compressing database
+[2025-09-19 18:29:26][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_db.sql
+[2025-09-19 18:29:26][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_db.part001.zip, filesize: 1.41 MB
+[2025-09-19 18:29:26][notice]Compressing database completed
+[2025-09-19 18:29:26][notice]Backing up backup_db completed.
+[2025-09-19 18:29:26][notice]Prepare to backup backup_themes files.
+[2025-09-19 18:29:26][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_themes.part001.zip index:994
+[2025-09-19 18:29:29][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_themes.part001.zip success. index:994 file size:20.77 MB
+[2025-09-19 18:29:29][notice]Backing up backup_themes completed.
+[2025-09-19 18:29:29][notice]Prepare to backup backup_plugin files.
+[2025-09-19 18:29:33][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_plugin.part001.zip index:4749
+[2025-09-19 18:29:43][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_plugin.part001.zip success. index:4749 file size:30.38 MB
+[2025-09-19 18:29:43][notice]Backing up backup_plugin completed.
+[2025-09-19 18:29:43][notice]Prepare to backup backup_uploads files.
+[2025-09-19 18:29:43][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_uploads.part001.zip index:729
+[2025-09-19 18:29:55][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_uploads.part001.zip success. index:729 file size:199.76 MB
+[2025-09-19 18:29:58][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_uploads.part002.zip index:1753
+[2025-09-19 18:30:04][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_uploads.part002.zip success. index:1753 file size:136.51 MB
+[2025-09-19 18:30:07][notice]Backing up backup_uploads completed.
+[2025-09-19 18:30:07][notice]Prepare to backup backup_content files.
+[2025-09-19 18:30:07][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_content.part001.zip index:3
+[2025-09-19 18:30:07][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_content.part001.zip success. index:3 file size:1.05 KB
+[2025-09-19 18:30:07][notice]Backing up backup_content completed.
+[2025-09-19 18:30:07][notice]Prepare to backup backup_core files.
+[2025-09-19 18:30:07][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_core.part001.zip index:2808
+[2025-09-19 18:30:14][notice]Compressing zip file:www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_core.part001.zip success. index:2808 file size:14.50 MB
+[2025-09-19 18:30:14][notice]Backing up backup_core completed.
+[2025-09-19 18:30:14][notice]Prepare to backup backup_merge files.
+[2025-09-19 18:30:14][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_db.zip
+[2025-09-19 18:30:14][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part001.zip, filesize: 1.25 MB
+[2025-09-19 18:30:14][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_themes.zip
+[2025-09-19 18:30:16][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part001.zip, filesize: 21.87 MB
+[2025-09-19 18:30:16][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_plugin.zip
+[2025-09-19 18:30:19][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part001.zip, filesize: 51.28 MB
+[2025-09-19 18:30:20][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_uploads.part001.zip
+[2025-09-19 18:30:27][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part002.zip, filesize: 199.73 MB
+[2025-09-19 18:30:29][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_uploads.part002.zip
+[2025-09-19 18:30:35][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip, filesize: 136.41 MB
+[2025-09-19 18:30:35][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_content.zip
+[2025-09-19 18:30:36][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip, filesize: 136.41 MB
+[2025-09-19 18:30:36][notice]Prepare to zip file. file: www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_core.zip
+[2025-09-19 18:30:39][notice]Adding zip files completed.www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip, filesize: 150.49 MB
+[2025-09-19 18:30:42][notice]Backing up backup_merge completed.
+[2025-09-19 18:30:42][notice]files: ["\/home\/sites\/36b\/9\/9039db00bc\/public_html\/wp-content\/wpvividbackups\/www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part001.zip","\/home\/sites\/36b\/9\/9039db00bc\/public_html\/wp-content\/wpvividbackups\/www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part002.zip","\/home\/sites\/36b\/9\/9039db00bc\/public_html\/wp-content\/wpvividbackups\/www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip"]
+[2025-09-19 18:30:42][notice]Check upload folder wpvivid_backup
+[2025-09-19 18:30:42][notice]Start uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part001.zip
+[2025-09-19 18:30:42][notice]Check if the server already has the same name file.
+[2025-09-19 18:30:43][notice]Initiate a resumable upload session.
+[2025-09-19 18:30:43][notice]progress:1048576.
+[2025-09-19 18:30:43][notice]progress:2097152.
+[2025-09-19 18:30:43][notice]progress:3145728.
+[2025-09-19 18:30:43][notice]progress:4194304.
+[2025-09-19 18:30:44][notice]progress:5242880.
+[2025-09-19 18:30:44][notice]progress:6291456.
+[2025-09-19 18:30:44][notice]progress:7340032.
+[2025-09-19 18:30:44][notice]progress:8388608.
+[2025-09-19 18:30:44][notice]progress:9437184.
+[2025-09-19 18:30:44][notice]progress:10485760.
+[2025-09-19 18:30:44][notice]progress:11534336.
+[2025-09-19 18:30:44][notice]progress:12582912.
+[2025-09-19 18:30:44][notice]progress:13631488.
+[2025-09-19 18:30:44][notice]progress:14680064.
+[2025-09-19 18:30:44][notice]progress:15728640.
+[2025-09-19 18:30:45][notice]progress:16777216.
+[2025-09-19 18:30:45][notice]progress:17825792.
+[2025-09-19 18:30:45][notice]progress:18874368.
+[2025-09-19 18:30:45][notice]progress:19922944.
+[2025-09-19 18:30:45][notice]progress:20971520.
+[2025-09-19 18:30:45][notice]progress:22020096.
+[2025-09-19 18:30:45][notice]progress:23068672.
+[2025-09-19 18:30:45][notice]progress:24117248.
+[2025-09-19 18:30:45][notice]progress:25165824.
+[2025-09-19 18:30:45][notice]progress:26214400.
+[2025-09-19 18:30:45][notice]progress:27262976.
+[2025-09-19 18:30:45][notice]progress:28311552.
+[2025-09-19 18:30:46][notice]Uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part001.zip Total size: 51.28 MB Uploaded: 28.00 MB speed:7340.03kb/s
+[2025-09-19 18:30:46][notice]progress:29360128.
+[2025-09-19 18:30:46][notice]progress:30408704.
+[2025-09-19 18:30:46][notice]progress:31457280.
+[2025-09-19 18:30:46][notice]progress:32505856.
+[2025-09-19 18:30:46][notice]progress:33554432.
+[2025-09-19 18:30:46][notice]progress:34603008.
+[2025-09-19 18:30:46][notice]progress:35651584.
+[2025-09-19 18:30:46][notice]progress:36700160.
+[2025-09-19 18:30:46][notice]progress:37748736.
+[2025-09-19 18:30:46][notice]progress:38797312.
+[2025-09-19 18:30:46][notice]progress:39845888.
+[2025-09-19 18:30:46][notice]progress:40894464.
+[2025-09-19 18:30:47][notice]progress:41943040.
+[2025-09-19 18:30:47][notice]progress:42991616.
+[2025-09-19 18:30:47][notice]progress:44040192.
+[2025-09-19 18:30:47][notice]progress:45088768.
+[2025-09-19 18:30:47][notice]progress:46137344.
+[2025-09-19 18:30:47][notice]progress:47185920.
+[2025-09-19 18:30:47][notice]progress:48234496.
+[2025-09-19 18:30:47][notice]progress:49283072.
+[2025-09-19 18:30:47][notice]progress:50331648.
+[2025-09-19 18:30:47][notice]progress:51380224.
+[2025-09-19 18:30:47][notice]progress:52428800.
+[2025-09-19 18:30:47][notice]progress:53477376.
+[2025-09-19 18:30:49][notice]progress:53477376.
+[2025-09-19 18:30:49][notice]Finished uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part001.zip
+[2025-09-19 18:30:49][notice]Upload success.
+[2025-09-19 18:30:49][notice]Start uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part002.zip
+[2025-09-19 18:30:49][notice]Check if the server already has the same name file.
+[2025-09-19 18:30:49][notice]Initiate a resumable upload session.
+[2025-09-19 18:30:49][notice]progress:1048576.
+[2025-09-19 18:30:49][notice]progress:2097152.
+[2025-09-19 18:30:50][notice]progress:3145728.
+[2025-09-19 18:30:50][notice]progress:4194304.
+[2025-09-19 18:30:50][notice]progress:5242880.
+[2025-09-19 18:30:50][notice]progress:6291456.
+[2025-09-19 18:30:50][notice]progress:7340032.
+[2025-09-19 18:30:50][notice]progress:8388608.
+[2025-09-19 18:30:50][notice]progress:9437184.
+[2025-09-19 18:30:50][notice]progress:10485760.
+[2025-09-19 18:30:50][notice]progress:11534336.
+[2025-09-19 18:30:50][notice]progress:12582912.
+[2025-09-19 18:30:50][notice]progress:13631488.
+[2025-09-19 18:30:50][notice]progress:14680064.
+[2025-09-19 18:30:51][notice]progress:15728640.
+[2025-09-19 18:30:51][notice]progress:16777216.
+[2025-09-19 18:30:51][notice]progress:17825792.
+[2025-09-19 18:30:51][notice]progress:18874368.
+[2025-09-19 18:30:51][notice]progress:19922944.
+[2025-09-19 18:30:51][notice]progress:20971520.
+[2025-09-19 18:30:51][notice]progress:22020096.
+[2025-09-19 18:30:51][notice]progress:23068672.
+[2025-09-19 18:30:51][notice]progress:24117248.
+[2025-09-19 18:30:51][notice]progress:25165824.
+[2025-09-19 18:30:51][notice]progress:26214400.
+[2025-09-19 18:30:51][notice]progress:27262976.
+[2025-09-19 18:30:51][notice]progress:28311552.
+[2025-09-19 18:30:52][notice]progress:29360128.
+[2025-09-19 18:30:52][notice]progress:30408704.
+[2025-09-19 18:30:52][notice]progress:31457280.
+[2025-09-19 18:30:52][notice]progress:32505856.
+[2025-09-19 18:30:52][notice]progress:33554432.
+[2025-09-19 18:30:52][notice]progress:34603008.
+[2025-09-19 18:30:52][notice]progress:35651584.
+[2025-09-19 18:30:52][notice]progress:36700160.
+[2025-09-19 18:30:52][notice]progress:37748736.
+[2025-09-19 18:30:52][notice]progress:38797312.
+[2025-09-19 18:30:52][notice]progress:39845888.
+[2025-09-19 18:30:53][notice]Uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part002.zip Total size: 199.73 MB Uploaded: 39.00 MB speed:10223.62kb/s
+[2025-09-19 18:30:53][notice]progress:40894464.
+[2025-09-19 18:30:53][notice]progress:41943040.
+[2025-09-19 18:30:53][notice]progress:42991616.
+[2025-09-19 18:30:53][notice]progress:44040192.
+[2025-09-19 18:30:53][notice]progress:45088768.
+[2025-09-19 18:30:53][notice]progress:46137344.
+[2025-09-19 18:30:53][notice]progress:47185920.
+[2025-09-19 18:30:53][notice]progress:48234496.
+[2025-09-19 18:30:53][notice]progress:49283072.
+[2025-09-19 18:30:53][notice]progress:50331648.
+[2025-09-19 18:30:53][notice]progress:51380224.
+[2025-09-19 18:30:54][notice]progress:52428800.
+[2025-09-19 18:30:54][notice]progress:53477376.
+[2025-09-19 18:30:54][notice]progress:54525952.
+[2025-09-19 18:30:54][notice]progress:55574528.
+[2025-09-19 18:30:54][notice]progress:56623104.
+[2025-09-19 18:30:54][notice]progress:57671680.
+[2025-09-19 18:30:54][notice]progress:58720256.
+[2025-09-19 18:30:54][notice]progress:59768832.
+[2025-09-19 18:30:54][notice]progress:60817408.
+[2025-09-19 18:30:54][notice]progress:61865984.
+[2025-09-19 18:30:54][notice]progress:62914560.
+[2025-09-19 18:30:55][notice]progress:63963136.
+[2025-09-19 18:30:55][notice]progress:65011712.
+[2025-09-19 18:30:55][notice]progress:66060288.
+[2025-09-19 18:30:55][notice]progress:67108864.
+[2025-09-19 18:30:55][notice]progress:68157440.
+[2025-09-19 18:30:55][notice]progress:69206016.
+[2025-09-19 18:30:55][notice]progress:70254592.
+[2025-09-19 18:30:55][notice]progress:71303168.
+[2025-09-19 18:30:55][notice]progress:72351744.
+[2025-09-19 18:30:55][notice]progress:73400320.
+[2025-09-19 18:30:55][notice]progress:74448896.
+[2025-09-19 18:30:55][notice]progress:75497472.
+[2025-09-19 18:30:56][notice]progress:76546048.
+[2025-09-19 18:30:56][notice]progress:77594624.
+[2025-09-19 18:30:56][notice]progress:78643200.
+[2025-09-19 18:30:56][notice]progress:79691776.
+[2025-09-19 18:30:56][notice]progress:80740352.
+[2025-09-19 18:30:56][notice]progress:81788928.
+[2025-09-19 18:30:56][notice]progress:82837504.
+[2025-09-19 18:30:56][notice]progress:83886080.
+[2025-09-19 18:30:56][notice]progress:84934656.
+[2025-09-19 18:30:56][notice]progress:85983232.
+[2025-09-19 18:30:56][notice]progress:87031808.
+[2025-09-19 18:30:56][notice]progress:88080384.
+[2025-09-19 18:30:56][notice]progress:89128960.
+[2025-09-19 18:30:57][notice]Uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part002.zip Total size: 199.73 MB Uploaded: 86.00 MB speed:12320.77kb/s
+[2025-09-19 18:30:57][notice]progress:90177536.
+[2025-09-19 18:30:57][notice]progress:91226112.
+[2025-09-19 18:30:57][notice]progress:92274688.
+[2025-09-19 18:30:57][notice]progress:93323264.
+[2025-09-19 18:30:57][notice]progress:94371840.
+[2025-09-19 18:30:57][notice]progress:95420416.
+[2025-09-19 18:30:57][notice]progress:96468992.
+[2025-09-19 18:30:57][notice]progress:97517568.
+[2025-09-19 18:30:57][notice]progress:98566144.
+[2025-09-19 18:30:57][notice]progress:99614720.
+[2025-09-19 18:30:57][notice]progress:100663296.
+[2025-09-19 18:30:57][notice]progress:101711872.
+[2025-09-19 18:30:57][notice]progress:102760448.
+[2025-09-19 18:30:58][notice]progress:103809024.
+[2025-09-19 18:30:58][notice]progress:104857600.
+[2025-09-19 18:30:58][notice]progress:105906176.
+[2025-09-19 18:30:58][notice]progress:106954752.
+[2025-09-19 18:30:58][notice]progress:108003328.
+[2025-09-19 18:30:58][notice]progress:109051904.
+[2025-09-19 18:30:58][notice]progress:110100480.
+[2025-09-19 18:30:58][notice]progress:111149056.
+[2025-09-19 18:30:58][notice]progress:112197632.
+[2025-09-19 18:30:58][notice]progress:113246208.
+[2025-09-19 18:30:58][notice]progress:114294784.
+[2025-09-19 18:30:58][notice]progress:115343360.
+[2025-09-19 18:30:58][notice]progress:116391936.
+[2025-09-19 18:30:59][notice]progress:117440512.
+[2025-09-19 18:30:59][notice]progress:118489088.
+[2025-09-19 18:30:59][notice]progress:119537664.
+[2025-09-19 18:30:59][notice]progress:120586240.
+[2025-09-19 18:30:59][notice]progress:121634816.
+[2025-09-19 18:30:59][notice]progress:122683392.
+[2025-09-19 18:30:59][notice]progress:123731968.
+[2025-09-19 18:30:59][notice]progress:124780544.
+[2025-09-19 18:30:59][notice]progress:125829120.
+[2025-09-19 18:30:59][notice]progress:126877696.
+[2025-09-19 18:30:59][notice]progress:127926272.
+[2025-09-19 18:30:59][notice]progress:128974848.
+[2025-09-19 18:31:00][notice]progress:130023424.
+[2025-09-19 18:31:00][notice]progress:131072000.
+[2025-09-19 18:31:00][notice]progress:132120576.
+[2025-09-19 18:31:00][notice]progress:133169152.
+[2025-09-19 18:31:00][notice]progress:134217728.
+[2025-09-19 18:31:00][notice]progress:135266304.
+[2025-09-19 18:31:00][notice]progress:136314880.
+[2025-09-19 18:31:00][notice]progress:137363456.
+[2025-09-19 18:31:00][notice]progress:138412032.
+[2025-09-19 18:31:00][notice]progress:139460608.
+[2025-09-19 18:31:00][notice]progress:140509184.
+[2025-09-19 18:31:00][notice]progress:141557760.
+[2025-09-19 18:31:00][notice]progress:142606336.
+[2025-09-19 18:31:01][notice]Uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part002.zip Total size: 199.73 MB Uploaded: 137.00 MB speed:13369.34kb/s
+[2025-09-19 18:31:01][notice]progress:143654912.
+[2025-09-19 18:31:01][notice]progress:144703488.
+[2025-09-19 18:31:01][notice]progress:145752064.
+[2025-09-19 18:31:01][notice]progress:146800640.
+[2025-09-19 18:31:01][notice]progress:147849216.
+[2025-09-19 18:31:01][notice]progress:148897792.
+[2025-09-19 18:31:01][notice]progress:149946368.
+[2025-09-19 18:31:01][notice]progress:150994944.
+[2025-09-19 18:31:01][notice]progress:152043520.
+[2025-09-19 18:31:01][notice]progress:153092096.
+[2025-09-19 18:31:01][notice]progress:154140672.
+[2025-09-19 18:31:01][notice]progress:155189248.
+[2025-09-19 18:31:01][notice]progress:156237824.
+[2025-09-19 18:31:02][notice]progress:157286400.
+[2025-09-19 18:31:02][notice]progress:158334976.
+[2025-09-19 18:31:02][notice]progress:159383552.
+[2025-09-19 18:31:02][notice]progress:160432128.
+[2025-09-19 18:31:02][notice]progress:161480704.
+[2025-09-19 18:31:02][notice]progress:162529280.
+[2025-09-19 18:31:02][notice]progress:163577856.
+[2025-09-19 18:31:02][notice]progress:164626432.
+[2025-09-19 18:31:02][notice]progress:165675008.
+[2025-09-19 18:31:02][notice]progress:166723584.
+[2025-09-19 18:31:02][notice]progress:167772160.
+[2025-09-19 18:31:02][notice]progress:168820736.
+[2025-09-19 18:31:02][notice]progress:169869312.
+[2025-09-19 18:31:03][notice]progress:170917888.
+[2025-09-19 18:31:03][notice]progress:171966464.
+[2025-09-19 18:31:03][notice]progress:173015040.
+[2025-09-19 18:31:03][notice]progress:174063616.
+[2025-09-19 18:31:03][notice]progress:175112192.
+[2025-09-19 18:31:03][notice]progress:176160768.
+[2025-09-19 18:31:03][notice]progress:177209344.
+[2025-09-19 18:31:03][notice]progress:178257920.
+[2025-09-19 18:31:03][notice]progress:179306496.
+[2025-09-19 18:31:03][notice]progress:180355072.
+[2025-09-19 18:31:04][notice]progress:181403648.
+[2025-09-19 18:31:04][notice]progress:182452224.
+[2025-09-19 18:31:04][notice]progress:183500800.
+[2025-09-19 18:31:04][notice]progress:184549376.
+[2025-09-19 18:31:04][notice]progress:185597952.
+[2025-09-19 18:31:04][notice]progress:186646528.
+[2025-09-19 18:31:04][notice]progress:187695104.
+[2025-09-19 18:31:04][notice]progress:188743680.
+[2025-09-19 18:31:04][notice]progress:189792256.
+[2025-09-19 18:31:04][notice]progress:190840832.
+[2025-09-19 18:31:04][notice]progress:191889408.
+[2025-09-19 18:31:04][notice]progress:192937984.
+[2025-09-19 18:31:05][notice]Uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part002.zip Total size: 199.73 MB Uploaded: 185.00 MB speed:12582.91kb/s
+[2025-09-19 18:31:05][notice]progress:193986560.
+[2025-09-19 18:31:05][notice]progress:195035136.
+[2025-09-19 18:31:05][notice]progress:196083712.
+[2025-09-19 18:31:05][notice]progress:197132288.
+[2025-09-19 18:31:05][notice]progress:198180864.
+[2025-09-19 18:31:05][notice]progress:199229440.
+[2025-09-19 18:31:05][notice]progress:200278016.
+[2025-09-19 18:31:05][notice]progress:201326592.
+[2025-09-19 18:31:05][notice]progress:202375168.
+[2025-09-19 18:31:05][notice]progress:203423744.
+[2025-09-19 18:31:05][notice]progress:204472320.
+[2025-09-19 18:31:05][notice]progress:205520896.
+[2025-09-19 18:31:05][notice]progress:206569472.
+[2025-09-19 18:31:06][notice]progress:207618048.
+[2025-09-19 18:31:06][notice]progress:208666624.
+[2025-09-19 18:31:07][notice]progress:208666624.
+[2025-09-19 18:31:07][notice]Finished uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part002.zip
+[2025-09-19 18:31:07][notice]Upload success.
+[2025-09-19 18:31:07][notice]Start uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip
+[2025-09-19 18:31:07][notice]Check if the server already has the same name file.
+[2025-09-19 18:31:07][notice]Initiate a resumable upload session.
+[2025-09-19 18:31:08][notice]progress:1048576.
+[2025-09-19 18:31:08][notice]progress:2097152.
+[2025-09-19 18:31:08][notice]progress:3145728.
+[2025-09-19 18:31:08][notice]progress:4194304.
+[2025-09-19 18:31:08][notice]progress:5242880.
+[2025-09-19 18:31:08][notice]progress:6291456.
+[2025-09-19 18:31:08][notice]progress:7340032.
+[2025-09-19 18:31:08][notice]progress:8388608.
+[2025-09-19 18:31:08][notice]progress:9437184.
+[2025-09-19 18:31:08][notice]progress:10485760.
+[2025-09-19 18:31:08][notice]progress:11534336.
+[2025-09-19 18:31:08][notice]progress:12582912.
+[2025-09-19 18:31:08][notice]progress:13631488.
+[2025-09-19 18:31:09][notice]progress:14680064.
+[2025-09-19 18:31:09][notice]progress:15728640.
+[2025-09-19 18:31:09][notice]progress:16777216.
+[2025-09-19 18:31:09][notice]progress:17825792.
+[2025-09-19 18:31:09][notice]progress:18874368.
+[2025-09-19 18:31:09][notice]progress:19922944.
+[2025-09-19 18:31:09][notice]progress:20971520.
+[2025-09-19 18:31:09][notice]progress:22020096.
+[2025-09-19 18:31:09][notice]progress:23068672.
+[2025-09-19 18:31:09][notice]progress:24117248.
+[2025-09-19 18:31:09][notice]progress:25165824.
+[2025-09-19 18:31:09][notice]progress:26214400.
+[2025-09-19 18:31:10][notice]progress:27262976.
+[2025-09-19 18:31:10][notice]progress:28311552.
+[2025-09-19 18:31:10][notice]progress:29360128.
+[2025-09-19 18:31:10][notice]progress:30408704.
+[2025-09-19 18:31:10][notice]progress:31457280.
+[2025-09-19 18:31:10][notice]progress:32505856.
+[2025-09-19 18:31:10][notice]progress:33554432.
+[2025-09-19 18:31:10][notice]progress:34603008.
+[2025-09-19 18:31:10][notice]progress:35651584.
+[2025-09-19 18:31:10][notice]progress:36700160.
+[2025-09-19 18:31:10][notice]progress:37748736.
+[2025-09-19 18:31:10][notice]progress:38797312.
+[2025-09-19 18:31:10][notice]progress:39845888.
+[2025-09-19 18:31:11][notice]Uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip Total size: 150.49 MB Uploaded: 39.00 MB speed:10223.62kb/s
+[2025-09-19 18:31:11][notice]progress:40894464.
+[2025-09-19 18:31:11][notice]progress:41943040.
+[2025-09-19 18:31:11][notice]progress:42991616.
+[2025-09-19 18:31:11][notice]progress:44040192.
+[2025-09-19 18:31:11][notice]progress:45088768.
+[2025-09-19 18:31:11][notice]progress:46137344.
+[2025-09-19 18:31:11][notice]progress:47185920.
+[2025-09-19 18:31:11][notice]progress:48234496.
+[2025-09-19 18:31:11][notice]progress:49283072.
+[2025-09-19 18:31:11][notice]progress:50331648.
+[2025-09-19 18:31:11][notice]progress:51380224.
+[2025-09-19 18:31:11][notice]progress:52428800.
+[2025-09-19 18:31:11][notice]progress:53477376.
+[2025-09-19 18:31:12][notice]progress:54525952.
+[2025-09-19 18:31:12][notice]progress:55574528.
+[2025-09-19 18:31:12][notice]progress:56623104.
+[2025-09-19 18:31:12][notice]progress:57671680.
+[2025-09-19 18:31:12][notice]progress:58720256.
+[2025-09-19 18:31:12][notice]progress:59768832.
+[2025-09-19 18:31:12][notice]progress:60817408.
+[2025-09-19 18:31:12][notice]progress:61865984.
+[2025-09-19 18:31:12][notice]progress:62914560.
+[2025-09-19 18:31:12][notice]progress:63963136.
+[2025-09-19 18:31:12][notice]progress:65011712.
+[2025-09-19 18:31:12][notice]progress:66060288.
+[2025-09-19 18:31:12][notice]progress:67108864.
+[2025-09-19 18:31:12][notice]progress:68157440.
+[2025-09-19 18:31:13][notice]progress:69206016.
+[2025-09-19 18:31:13][notice]progress:70254592.
+[2025-09-19 18:31:13][notice]progress:71303168.
+[2025-09-19 18:31:13][notice]progress:72351744.
+[2025-09-19 18:31:13][notice]progress:73400320.
+[2025-09-19 18:31:13][notice]progress:74448896.
+[2025-09-19 18:31:13][notice]progress:75497472.
+[2025-09-19 18:31:13][notice]progress:76546048.
+[2025-09-19 18:31:13][notice]progress:77594624.
+[2025-09-19 18:31:13][notice]progress:78643200.
+[2025-09-19 18:31:13][notice]progress:79691776.
+[2025-09-19 18:31:13][notice]progress:80740352.
+[2025-09-19 18:31:14][notice]progress:81788928.
+[2025-09-19 18:31:14][notice]progress:82837504.
+[2025-09-19 18:31:14][notice]progress:83886080.
+[2025-09-19 18:31:14][notice]progress:84934656.
+[2025-09-19 18:31:14][notice]progress:85983232.
+[2025-09-19 18:31:14][notice]progress:87031808.
+[2025-09-19 18:31:14][notice]progress:88080384.
+[2025-09-19 18:31:14][notice]progress:89128960.
+[2025-09-19 18:31:14][notice]progress:90177536.
+[2025-09-19 18:31:14][notice]progress:91226112.
+[2025-09-19 18:31:14][notice]progress:92274688.
+[2025-09-19 18:31:14][notice]progress:93323264.
+[2025-09-19 18:31:14][notice]progress:94371840.
+[2025-09-19 18:31:15][notice]Uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip Total size: 150.49 MB Uploaded: 91.00 MB speed:13631.49kb/s
+[2025-09-19 18:31:15][notice]progress:95420416.
+[2025-09-19 18:31:15][notice]progress:96468992.
+[2025-09-19 18:31:15][notice]progress:97517568.
+[2025-09-19 18:31:15][notice]progress:98566144.
+[2025-09-19 18:31:15][notice]progress:99614720.
+[2025-09-19 18:31:15][notice]progress:100663296.
+[2025-09-19 18:31:15][notice]progress:101711872.
+[2025-09-19 18:31:15][notice]progress:102760448.
+[2025-09-19 18:31:15][notice]progress:103809024.
+[2025-09-19 18:31:15][notice]progress:104857600.
+[2025-09-19 18:31:15][notice]progress:105906176.
+[2025-09-19 18:31:15][notice]progress:106954752.
+[2025-09-19 18:31:16][notice]progress:108003328.
+[2025-09-19 18:31:16][notice]progress:109051904.
+[2025-09-19 18:31:16][notice]progress:110100480.
+[2025-09-19 18:31:16][notice]progress:111149056.
+[2025-09-19 18:31:16][notice]progress:112197632.
+[2025-09-19 18:31:16][notice]progress:113246208.
+[2025-09-19 18:31:16][notice]progress:114294784.
+[2025-09-19 18:31:16][notice]progress:115343360.
+[2025-09-19 18:31:16][notice]progress:116391936.
+[2025-09-19 18:31:16][notice]progress:117440512.
+[2025-09-19 18:31:16][notice]progress:118489088.
+[2025-09-19 18:31:16][notice]progress:119537664.
+[2025-09-19 18:31:16][notice]progress:120586240.
+[2025-09-19 18:31:16][notice]progress:121634816.
+[2025-09-19 18:31:17][notice]progress:122683392.
+[2025-09-19 18:31:17][notice]progress:123731968.
+[2025-09-19 18:31:17][notice]progress:124780544.
+[2025-09-19 18:31:17][notice]progress:125829120.
+[2025-09-19 18:31:17][notice]progress:126877696.
+[2025-09-19 18:31:17][notice]progress:127926272.
+[2025-09-19 18:31:17][notice]progress:128974848.
+[2025-09-19 18:31:17][notice]progress:130023424.
+[2025-09-19 18:31:17][notice]progress:131072000.
+[2025-09-19 18:31:17][notice]progress:132120576.
+[2025-09-19 18:31:17][notice]progress:133169152.
+[2025-09-19 18:31:17][notice]progress:134217728.
+[2025-09-19 18:31:17][notice]progress:135266304.
+[2025-09-19 18:31:17][notice]progress:136314880.
+[2025-09-19 18:31:18][notice]progress:137363456.
+[2025-09-19 18:31:18][notice]progress:138412032.
+[2025-09-19 18:31:18][notice]progress:139460608.
+[2025-09-19 18:31:18][notice]progress:140509184.
+[2025-09-19 18:31:18][notice]progress:141557760.
+[2025-09-19 18:31:18][notice]progress:142606336.
+[2025-09-19 18:31:18][notice]progress:143654912.
+[2025-09-19 18:31:18][notice]progress:144703488.
+[2025-09-19 18:31:18][notice]progress:145752064.
+[2025-09-19 18:31:18][notice]progress:146800640.
+[2025-09-19 18:31:18][notice]progress:147849216.
+[2025-09-19 18:31:18][notice]progress:148897792.
+[2025-09-19 18:31:18][notice]progress:149946368.
+[2025-09-19 18:31:19][notice]Uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip Total size: 150.49 MB Uploaded: 144.00 MB speed:13893.63kb/s
+[2025-09-19 18:31:19][notice]progress:150994944.
+[2025-09-19 18:31:19][notice]progress:152043520.
+[2025-09-19 18:31:19][notice]progress:153092096.
+[2025-09-19 18:31:19][notice]progress:154140672.
+[2025-09-19 18:31:19][notice]progress:155189248.
+[2025-09-19 18:31:19][notice]progress:156237824.
+[2025-09-19 18:31:19][notice]progress:157286400.
+[2025-09-19 18:31:20][notice]progress:157286400.
+[2025-09-19 18:31:20][notice]Finished uploading www.francoslandscapingc.com_wpvivid-c027f4a5e60cd_2025-09-19-18-29_backup_all.part003.zip
+[2025-09-19 18:31:20][notice]Upload success.
+[2025-09-19 18:31:20][notice]Finish upload to googledrive

@@ -1,0 +1,16 @@
+[07-May-2024 13:14:39 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/sites/36b/9/9039db00bc/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sites/36b/9/9039db00bc/public_html/wp-includes/blocks/index.php on line 8
+[18-May-2024 18:12:14 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/sites/36b/9/9039db00bc/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sites/36b/9/9039db00bc/public_html/wp-includes/blocks/index.php on line 8
+[28-May-2024 04:48:04 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/sites/36b/9/9039db00bc/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sites/36b/9/9039db00bc/public_html/wp-includes/blocks/index.php on line 8
+[31-May-2024 13:06:22 America/Chicago] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/sites/36b/9/9039db00bc/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/sites/36b/9/9039db00bc/public_html/wp-includes/blocks/index.php on line 8

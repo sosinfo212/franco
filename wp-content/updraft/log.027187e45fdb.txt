@@ -1,0 +1,445 @@
+0000.000 (0) Opened log file at time: Fri, 22 Mar 2024 14:11:06 +0000 on https://www.francoslandscapingc.com
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.1 WP: 6.4.3 PHP: 8.2.17 (litespeed, Linux 20ae.websitewelcome.com 4.19.286-203.ELK.el7.x86_64 #1 SMP Wed Jun 14 04:33:55 CDT 2023 x86_64) MySQL: 5.7.23-23 (max packet size=268435456) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 6.9M | 8M) multisite: N openssl: OpenSSL 1.1.1w  11 Sep 2023 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.047 (0) Free space on disk containing Updraft's temporary directory: 1216567.5 MB
+0000.052 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.056 (0) Semaphore (fd, wppg_options) being initialised
+0000.058 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.061 (0) Set semaphore last lock (fd) time to 2024-03-22 14:11:06
+0000.062 (0) Semaphore lock (fd) complete
+0000.064 (0) Backup run: resumption=0, nonce=027187e45fdb, file_nonce=027187e45fdb begun at=1711116666 (0s ago), job type=backup
+0000.065 (0) Scheduling a resumption (1) after 300 seconds (1711116966) in case this run gets aborted
+0000.093 (0) Checking if we have a zip executable available
+0000.094 (0) Testing: /usr/bin/zip
+0000.105 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.106 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.106 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.107 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.107 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.113 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.114 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.115 (0) Working binary zip found: /usr/bin/zip
+0000.116 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.117 (0) Creation of backups of directories: beginning
+0000.119 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.301 (0) Total entities for the zip file: 1766 directories, 8246 files (0 skipped as non-modified), 154.5 MB
+0001.304 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.306 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.309 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.311 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.313 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.315 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.318 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.321 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.323 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.325 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.326 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.8 MB, 8246 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0001.869 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: size is now: 3.30 MB
+0001.874 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1100 files added (on-disk size: 3367.7 KB)
+0001.877 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1200 files added (on-disk size: 3367.7 KB)
+0001.878 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1300 files added (on-disk size: 3367.7 KB)
+0001.880 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1400 files added (on-disk size: 3367.7 KB)
+0001.881 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1500 files added (on-disk size: 3367.7 KB)
+0001.882 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1600 files added (on-disk size: 3367.7 KB)
+0001.884 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1700 files added (on-disk size: 3367.7 KB)
+0001.885 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1800 files added (on-disk size: 3367.7 KB)
+0001.887 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 1900 files added (on-disk size: 3367.7 KB)
+0001.888 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2000 files added (on-disk size: 3367.7 KB)
+0001.889 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (24.9 MB, 8246 files batched, 1001 (2002) added so far); re-opening (prior size: 3367.7 KB)
+0003.513 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: size is now: 12.10 MB
+0003.519 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2100 files added (on-disk size: 12428.6 KB)
+0003.522 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2200 files added (on-disk size: 12428.6 KB)
+0003.525 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2300 files added (on-disk size: 12428.6 KB)
+0003.526 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.2 MB, 8246 files batched, 343 (2345) added so far); re-opening (prior size: 12428.6 KB)
+0005.133 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: size is now: 18.40 MB
+0005.136 (0) A useful amount of data was added after this amount of zip processing: 1.9 s (normalised: 1.9 s, rate: 13514.6 KB/s)
+0005.139 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.9076690673828, normalised_time=1.8942473870027, max_time=5.1369469165802, data points known=1, old_max_bytes=26214400, new_max_bytes=83033716)
+0005.144 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2400 files added (on-disk size: 18839.8 KB)
+0005.148 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2500 files added (on-disk size: 18839.8 KB)
+0005.150 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2600 files added (on-disk size: 18839.8 KB)
+0005.153 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2700 files added (on-disk size: 18839.8 KB)
+0005.155 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2800 files added (on-disk size: 18839.8 KB)
+0005.158 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 2900 files added (on-disk size: 18839.8 KB)
+0005.160 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3000 files added (on-disk size: 18839.8 KB)
+0005.162 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3100 files added (on-disk size: 18839.8 KB)
+0005.164 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3200 files added (on-disk size: 18839.8 KB)
+0005.166 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3300 files added (on-disk size: 18839.8 KB)
+0005.168 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (14.8 MB, 8246 files batched, 1001 (3346) added so far); re-opening (prior size: 18839.8 KB)
+0006.601 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: size is now: 22.90 MB
+0006.606 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3400 files added (on-disk size: 23431.3 KB)
+0006.611 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3500 files added (on-disk size: 23431.3 KB)
+0006.614 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3600 files added (on-disk size: 23431.3 KB)
+0006.616 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3700 files added (on-disk size: 23431.3 KB)
+0006.618 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3800 files added (on-disk size: 23431.3 KB)
+0006.620 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 3900 files added (on-disk size: 23431.3 KB)
+0006.621 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4000 files added (on-disk size: 23431.3 KB)
+0006.623 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4100 files added (on-disk size: 23431.3 KB)
+0006.624 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4200 files added (on-disk size: 23431.3 KB)
+0006.626 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4300 files added (on-disk size: 23431.3 KB)
+0006.627 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18.4 MB, 8246 files batched, 1001 (4347) added so far); re-opening (prior size: 23431.3 KB)
+0008.308 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: size is now: 28.10 MB
+0008.312 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4400 files added (on-disk size: 28777.8 KB)
+0008.314 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4500 files added (on-disk size: 28777.8 KB)
+0008.316 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4600 files added (on-disk size: 28777.8 KB)
+0008.318 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4700 files added (on-disk size: 28777.8 KB)
+0008.320 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4800 files added (on-disk size: 28777.8 KB)
+0008.322 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 4900 files added (on-disk size: 28777.8 KB)
+0008.324 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5000 files added (on-disk size: 28777.8 KB)
+0008.326 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5100 files added (on-disk size: 28777.8 KB)
+0008.328 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5200 files added (on-disk size: 28777.8 KB)
+0008.330 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5300 files added (on-disk size: 28777.8 KB)
+0008.332 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (13.3 MB, 8246 files batched, 1001 (5348) added so far); re-opening (prior size: 28777.8 KB)
+0009.582 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5400 files added (on-disk size: 34276.5 KB)
+0009.585 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5500 files added (on-disk size: 34276.5 KB)
+0009.588 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5600 files added (on-disk size: 34276.5 KB)
+0009.591 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5700 files added (on-disk size: 34276.5 KB)
+0009.593 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5800 files added (on-disk size: 34276.5 KB)
+0009.595 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 5900 files added (on-disk size: 34276.5 KB)
+0009.597 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6000 files added (on-disk size: 34276.5 KB)
+0009.599 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6100 files added (on-disk size: 34276.5 KB)
+0009.602 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6200 files added (on-disk size: 34276.5 KB)
+0009.604 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6300 files added (on-disk size: 34276.5 KB)
+0009.605 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (19.2 MB, 8246 files batched, 1001 (6349) added so far); re-opening (prior size: 34276.5 KB)
+0011.270 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: size is now: 42.50 MB
+0011.277 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6400 files added (on-disk size: 43493.2 KB)
+0011.281 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6500 files added (on-disk size: 43493.2 KB)
+0011.285 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6600 files added (on-disk size: 43493.2 KB)
+0011.287 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6700 files added (on-disk size: 43493.2 KB)
+0011.289 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6800 files added (on-disk size: 43493.2 KB)
+0011.291 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 6900 files added (on-disk size: 43493.2 KB)
+0011.293 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7000 files added (on-disk size: 43493.2 KB)
+0011.295 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7100 files added (on-disk size: 43493.2 KB)
+0011.297 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7200 files added (on-disk size: 43493.2 KB)
+0011.298 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7300 files added (on-disk size: 43493.2 KB)
+0011.299 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (9.2 MB, 8246 files batched, 1001 (7350) added so far); re-opening (prior size: 43493.2 KB)
+0012.594 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7400 files added (on-disk size: 46775.5 KB)
+0012.595 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7500 files added (on-disk size: 46775.5 KB)
+0012.597 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7600 files added (on-disk size: 46775.5 KB)
+0012.598 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7700 files added (on-disk size: 46775.5 KB)
+0012.599 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7800 files added (on-disk size: 46775.5 KB)
+0012.601 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 7900 files added (on-disk size: 46775.5 KB)
+0012.602 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 8000 files added (on-disk size: 46775.5 KB)
+0012.604 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 8100 files added (on-disk size: 46775.5 KB)
+0012.605 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: 8200 files added (on-disk size: 46775.5 KB)
+0013.957 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.tmp: size is now: 62.00 MB
+0014.037 (0) Creating zip file manifest (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.list-temp.tmp)
+0014.069 (0) Successfully created zip file manifest (size: 677010)
+0014.881 (0) Created plugins zip (0) - 63452.9 KB in 14.7 s (4312.2 KB/s) (sha1: a0d93067b262bb03e1e738d8818ecd6478ac2ddf, sha256: 8a2169cbde24b478b7bbbdfa8f83aadf625965da2ec7f02176b1e00e9967f58a)
+0014.891 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0014.892 (0) No remote despatch: user chose no remote backup service
+0014.893 (0) Recording as successfully uploaded: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip
+0014.895 (0) Deleting zip manifest (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip.list.tmp)
+0014.899 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0014.901 (0) Number of backup sets in history: 0; groups (db): 1
+0014.901 (0) Number of backup sets in history: 0; groups (files): 1
+0014.902 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0014.906 (0) Beginning creation of dump of themes (split every: 400 MB)
+0015.081 (0) Total entities for the zip file: 139 directories, 763 files (0 skipped as non-modified), 19.4 MB
+0015.084 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.086 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.088 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0015.091 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0015.093 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0015.095 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0015.097 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0016.501 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.tmp: size is now: 13.30 MB
+0016.511 (0) Creating zip file manifest (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.list-temp.tmp)
+0016.514 (0) Successfully created zip file manifest (size: 53433)
+0016.687 (0) Created themes zip (0) - 13571.5 KB in 1.7 s (7947.4 KB/s) (sha1: ee6b79f51f696a17c6550d0657146881937726af, sha256: 88f4134b7f3be53ddb62a57815b8e784bdc3b7351718c7c35586b3715db5b509)
+0016.690 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0016.690 (0) No remote despatch: user chose no remote backup service
+0016.691 (0) Recording as successfully uploaded: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip
+0016.692 (0) Deleting zip manifest (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip.list.tmp)
+0016.693 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.693 (0) Number of backup sets in history: 0; groups (db): 1
+0016.694 (0) Number of backup sets in history: 0; groups (files): 1
+0016.694 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0016.697 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0016.698 (0) Looking for candidates to backup in: /home/sites/36b/9/9039db00bc/public_html/wp-content/uploads
+0016.698 (0) finding files: 2024: adding to list (1)
+0016.699 (0) finding files: wpcf7_uploads: adding to list (2)
+0016.699 (0) finding files: cache: adding to list (3)
+0016.700 (0) finding files: elementor: adding to list (4)
+0016.700 (0) finding files: photo-gallery: adding to list (5)
+0016.701 (0) finding files: 2019: adding to list (6)
+0016.701 (0) finding files: wpforms: adding to list (7)
+0016.702 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0016.858 (0) Total entities for the zip file: 99 directories, 1099 files (0 skipped as non-modified), 223.3 MB
+0016.861 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.863 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.865 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0016.867 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 79.2 MB added on this batch (79.5 MB, 1099 files batched, 360 (360) added so far); re-opening (prior size: 0 KB)
+0017.871 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: size is now: 79.50 MB
+0017.877 (0) A useful amount of data was added after this amount of zip processing: 1.6 s (normalised: 1.6 s, rate: 49343.7 KB/s)
+0017.879 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.6487879753113, normalised_time=1.643321755554, max_time=17.877949953079, data points known=1, old_max_bytes=83033716, new_max_bytes=209715200)
+0017.881 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 400 files added (on-disk size: 81454.7 KB)
+0017.883 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 500 files added (on-disk size: 81454.7 KB)
+0017.885 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 600 files added (on-disk size: 81454.7 KB)
+0017.887 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 700 files added (on-disk size: 81454.7 KB)
+0017.888 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 800 files added (on-disk size: 81454.7 KB)
+0017.890 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 900 files added (on-disk size: 81454.7 KB)
+0017.891 (0) Zip: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: 1000 files added (on-disk size: 81454.7 KB)
+0020.026 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.tmp: size is now: 219.20 MB
+0020.037 (0) Creating zip file manifest (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.list-temp.tmp)
+0020.041 (0) Successfully created zip file manifest (size: 67509)
+0022.850 (0) Created uploads zip (0) - 224436 KB in 6.1 s (36787.5 KB/s) (sha1: aba8f571b1a8153b3432742f62ace9f97fb25fab, sha256: 4ed99ce18f8209c68813fec86c324f5e40602abac1ece7fc35d7011819279150)
+0022.855 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0022.856 (0) No remote despatch: user chose no remote backup service
+0022.857 (0) Recording as successfully uploaded: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip
+0022.859 (0) Deleting zip manifest (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip.list.tmp)
+0022.862 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0022.863 (0) Number of backup sets in history: 0; groups (db): 1
+0022.864 (0) Number of backup sets in history: 0; groups (files): 1
+0022.865 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0022.869 (0) No backup of mu-plugins: excluded by user's options
+0022.871 (0) Beginning backup of other directories found in the content directory (index: 0)
+0022.872 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0022.873 (0) Looking for candidates to backup in: /home/sites/36b/9/9039db00bc/public_html/wp-content
+0022.874 (0) finding files: index.php: adding to list (1)
+0022.874 (0) finding files: plugins: skipping: this is the plugins directory
+0022.875 (0) finding files: updraft: skipping: this is the updraft directory
+0022.875 (0) finding files: upgrade-temp-backup: adding to list (2)
+0022.876 (0) finding files: uploads: skipping: this is the uploads directory
+0022.877 (0) finding files: themes: skipping: this is the themes directory
+0022.878 (0) finding files: upgrade: skipping: excluded by options
+0022.929 (0) Total entities for the zip file: 2 directories, 1 files (0 skipped as non-modified), 0 MB
+0022.940 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-others.zip.tmp: size is now: 0.00 MB
+0022.945 (0) Creating zip file manifest (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-others.zip.list-temp.tmp)
+0022.947 (0) Successfully created zip file manifest (size: 43)
+0022.953 (0) Created others zip (0) - 0.5 KB in 0 s (19.1 KB/s) (sha1: 76f32022ecce8a1e940d381b34ac4098236d1058, sha256: d02bb4f3d5385952d4cfe1b7e672aa2489745e39e6ea72469f3720c913409d3b)
+0022.958 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0022.959 (0) No remote despatch: user chose no remote backup service
+0022.960 (0) Recording as successfully uploaded: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-others.zip
+0022.962 (0) Deleting zip manifest (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-others.zip.list.tmp)
+0022.964 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0022.965 (0) Number of backup sets in history: 0; groups (db): 1
+0022.966 (0) Number of backup sets in history: 0; groups (files): 1
+0022.967 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0022.972 (0) Saving backup status to database (elements: 8)
+0022.975 (0) Beginning creation of database dump (WordPress DB)
+0022.977 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0022.979 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0023.024 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\n/*!50717 SELECT COUNT(*) INTO @rocksdb_has_p_s_session_variables FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'performance_schema' AND TABL (truncated - 2601 bytes total)
+0023.026 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0023.140 (0) Table wppg_options: Total expected rows (via COUNT): 563
+0023.266 (0) Table wppg_options: Rows added in this batch (next record: 19339): 559 (uncompressed bytes in this segment=2117774) in 0.22 seconds
+0023.271 (0) Table wppg_options: finishing file(s) (2, 395.4 KB)
+0023.276 (0) Table wppg_users: Total expected rows (via COUNT): 1
+0023.277 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.279 (0) Table wppg_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1415) in 0.00 seconds
+0023.283 (0) Table wppg_users: finishing file(s) (2, 0.6 KB)
+0023.288 (0) Table wppg_usermeta: Total expected rows (via COUNT): 30
+0023.289 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.291 (0) Table wppg_usermeta: Rows added in this batch (next record: 31): 30 (uncompressed bytes in this segment=3426) in 0.01 seconds
+0023.295 (0) Table wppg_usermeta: finishing file(s) (2, 1.6 KB)
+0023.301 (0) Table wppg_actionscheduler_actions: Total expected rows (via COUNT): 21
+0023.301 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.305 (0) Table wppg_actionscheduler_actions: Rows added in this batch (next record: 27): 21 (uncompressed bytes in this segment=10316) in 0.01 seconds
+0023.309 (0) Table wppg_actionscheduler_actions: finishing file(s) (2, 1.5 KB)
+0023.313 (0) Table wppg_actionscheduler_claims: Total expected rows (via COUNT): 0
+0023.315 (0) Table wppg_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=638) in 0.00 seconds
+0023.318 (0) Table wppg_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0023.322 (0) Table wppg_actionscheduler_groups: Total expected rows (via COUNT): 2
+0023.323 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.327 (0) Table wppg_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=720) in 0.01 seconds
+0023.330 (0) Table wppg_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0023.338 (0) Table wppg_actionscheduler_logs: Total expected rows (via COUNT): 53
+0023.340 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.345 (0) Table wppg_actionscheduler_logs: Rows added in this batch (next record: 55): 53 (uncompressed bytes in this segment=5323) in 0.01 seconds
+0023.351 (0) Table wppg_actionscheduler_logs: finishing file(s) (2, 1.1 KB)
+0023.363 (0) Table wppg_commentmeta: Total expected rows (via COUNT): 0
+0023.366 (0) Table wppg_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=697) in 0.01 seconds
+0023.373 (0) Table wppg_commentmeta: finishing file(s) (2, 0.4 KB)
+0023.381 (0) Table wppg_comments: Total expected rows (via COUNT): 3
+0023.382 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.385 (0) Table wppg_comments: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=3292) in 0.01 seconds
+0023.390 (0) Table wppg_comments: finishing file(s) (2, 1.3 KB)
+0023.399 (0) Table wppg_links: Total expected rows (via COUNT): 0
+0023.403 (0) Table wppg_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1322) in 0.01 seconds
+0023.409 (0) Table wppg_links: finishing file(s) (2, 0.5 KB)
+0023.504 (0) Table wppg_postmeta: Total expected rows (approximate): 1334
+0023.565 (0) Table wppg_postmeta: Rows added in this batch (next record: 1830): 1580 (uncompressed bytes in this segment=1932277) in 0.15 seconds
+0023.571 (0) Table wppg_postmeta: finishing file(s) (2, 153.4 KB)
+0023.608 (0) Table wppg_posts: Total expected rows (via COUNT): 449
+0023.609 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.644 (0) Table wppg_posts: Rows added in this batch (next record: 874): 449 (uncompressed bytes in this segment=713916) in 0.07 seconds
+0023.651 (0) Table wppg_posts: finishing file(s) (2, 65.5 KB)
+0023.657 (0) Table wppg_term_relationships: Total expected rows (approximate): 116
+0023.662 (0) Table wppg_term_relationships: Rows added in this batch (next record: 100000): 116 (uncompressed bytes in this segment=2324) in 0.01 seconds
+0023.667 (0) Table wppg_term_relationships: finishing file(s) (2, 0.7 KB)
+0023.674 (0) Table wppg_term_taxonomy: Total expected rows (via COUNT): 9
+0023.675 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.678 (0) Table wppg_term_taxonomy: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1235) in 0.01 seconds
+0023.682 (0) Table wppg_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0023.694 (0) Table wppg_termmeta: Total expected rows (via COUNT): 0
+0023.698 (0) Table wppg_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=670) in 0.01 seconds
+0023.704 (0) Table wppg_termmeta: finishing file(s) (2, 0.4 KB)
+0023.710 (0) Table wppg_terms: Total expected rows (via COUNT): 9
+0023.711 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.714 (0) Table wppg_terms: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=979) in 0.01 seconds
+0023.718 (0) Table wppg_terms: finishing file(s) (2, 0.5 KB)
+0023.726 (0) Table wppg_bwg_album: Total expected rows (via COUNT): 0
+0023.729 (0) Table wppg_bwg_album: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=886) in 0.01 seconds
+0023.735 (0) Table wppg_bwg_album: finishing file(s) (2, 0.4 KB)
+0023.743 (0) Table wppg_bwg_album_gallery: Total expected rows (via COUNT): 0
+0023.745 (0) Table wppg_bwg_album_gallery: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=594) in 0.01 seconds
+0023.749 (0) Table wppg_bwg_album_gallery: finishing file(s) (2, 0.3 KB)
+0023.759 (0) Table wppg_bwg_file_paths: Total expected rows (via COUNT): 74
+0023.760 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.764 (0) Table wppg_bwg_file_paths: Rows added in this batch (next record: 74): 74 (uncompressed bytes in this segment=18468) in 0.01 seconds
+0023.768 (0) Table wppg_bwg_file_paths: finishing file(s) (2, 2.1 KB)
+0023.775 (0) Table wppg_bwg_gallery: Total expected rows (via COUNT): 1
+0023.777 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.782 (0) Table wppg_bwg_gallery: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1403) in 0.01 seconds
+0023.786 (0) Table wppg_bwg_gallery: finishing file(s) (2, 0.6 KB)
+0023.799 (0) Table wppg_bwg_image: Total expected rows (via COUNT): 73
+0023.800 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.805 (0) Table wppg_bwg_image: Rows added in this batch (next record: 73): 73 (uncompressed bytes in this segment=20715) in 0.01 seconds
+0023.810 (0) Table wppg_bwg_image: finishing file(s) (2, 2.5 KB)
+0023.818 (0) Table wppg_bwg_image_comment: Total expected rows (via COUNT): 0
+0023.820 (0) Table wppg_bwg_image_comment: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=838) in 0.01 seconds
+0023.824 (0) Table wppg_bwg_image_comment: finishing file(s) (2, 0.4 KB)
+0023.832 (0) Table wppg_bwg_image_rate: Total expected rows (via COUNT): 0
+0023.833 (0) Table wppg_bwg_image_rate: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0023.837 (0) Table wppg_bwg_image_rate: finishing file(s) (2, 0.3 KB)
+0023.844 (0) Table wppg_bwg_image_tag: Total expected rows (via COUNT): 0
+0023.846 (0) Table wppg_bwg_image_tag: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=537) in 0.01 seconds
+0023.849 (0) Table wppg_bwg_image_tag: finishing file(s) (2, 0.3 KB)
+0023.857 (0) Table wppg_bwg_shortcode: Total expected rows (via COUNT): 1
+0023.858 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.860 (0) Table wppg_bwg_shortcode: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1962) in 0.01 seconds
+0023.864 (0) Table wppg_bwg_shortcode: finishing file(s) (2, 0.9 KB)
+0023.875 (0) Table wppg_bwg_theme: Total expected rows (via COUNT): 2
+0023.876 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.879 (0) Table wppg_bwg_theme: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=41529) in 0.01 seconds
+0023.884 (0) Table wppg_bwg_theme: finishing file(s) (2, 4.5 KB)
+0023.891 (0) Table wppg_e_events: Total expected rows (via COUNT): 1
+0023.892 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.896 (0) Table wppg_e_events: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=805) in 0.01 seconds
+0023.901 (0) Table wppg_e_events: finishing file(s) (2, 0.5 KB)
+0023.920 (0) Table wppg_legal_pages: Total expected rows (via COUNT): 6
+0023.921 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0023.926 (0) Table wppg_legal_pages: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=46701) in 0.02 seconds
+0023.932 (0) Table wppg_legal_pages: finishing file(s) (2, 15 KB)
+0023.942 (0) Table wppg_litespeed_url: Total expected rows (via COUNT): 0
+0023.945 (0) Table wppg_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=651) in 0.01 seconds
+0023.948 (0) Table wppg_litespeed_url: finishing file(s) (2, 0.4 KB)
+0023.958 (0) Table wppg_litespeed_url_file: Total expected rows (via COUNT): 0
+0023.960 (0) Table wppg_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1123) in 0.01 seconds
+0023.964 (0) Table wppg_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0023.975 (0) Table wppg_lp_popups: Total expected rows (via COUNT): 0
+0023.976 (0) Table wppg_lp_popups: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=531) in 0.01 seconds
+0023.980 (0) Table wppg_lp_popups: finishing file(s) (2, 0.3 KB)
+0023.989 (0) Table wppg_wpforms_logs: Total expected rows (via COUNT): 0
+0023.991 (0) Table wppg_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=764) in 0.01 seconds
+0023.995 (0) Table wppg_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0024.005 (0) Table wppg_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0024.007 (0) Table wppg_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=751) in 0.01 seconds
+0024.012 (0) Table wppg_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0024.022 (0) Table wppg_wpforms_payments: Total expected rows (via COUNT): 0
+0024.026 (0) Table wppg_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1982) in 0.01 seconds
+0024.031 (0) Table wppg_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0024.040 (0) Table wppg_wpforms_tasks_meta: Total expected rows (via COUNT): 5
+0024.041 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0024.044 (0) Table wppg_wpforms_tasks_meta: Rows added in this batch (next record: 8): 5 (uncompressed bytes in this segment=1062) in 0.01 seconds
+0024.048 (0) Table wppg_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0024.049 (0) PHP event: code E_WARNING: filemtime(): stat failed for /home/sites/36b/9/9039db00bc/public_html/wp-content/updraft/backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db.gz (line 1925, wp-content/plugins/updraftplus/backup.php)
+0024.051 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_options.table.tmpr19340.gz (1/35/fopen): adding to final database dump
+0024.057 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_options.table.gz (2/35/fopen): adding to final database dump
+0024.058 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_users.table.tmpr2.gz (3/35/fopen): adding to final database dump
+0024.059 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_users.table.gz (4/35/fopen): adding to final database dump
+0024.060 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_usermeta.table.tmpr32.gz (5/35/fopen): adding to final database dump
+0024.062 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_usermeta.table.gz (6/35/fopen): adding to final database dump
+0024.063 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_actionscheduler_actions.table.tmpr28.gz (7/35/fopen): adding to final database dump
+0024.064 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_actionscheduler_actions.table.gz (8/35/fopen): adding to final database dump
+0024.065 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_actionscheduler_claims.table.tmpr0.gz (9/35/fopen): adding to final database dump
+0024.067 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_actionscheduler_claims.table.gz (10/35/fopen): adding to final database dump
+0024.068 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_actionscheduler_groups.table.tmpr3.gz (11/35/fopen): adding to final database dump
+0024.069 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_actionscheduler_groups.table.gz (12/35/fopen): adding to final database dump
+0024.070 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_actionscheduler_logs.table.tmpr56.gz (13/35/fopen): adding to final database dump
+0024.071 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_actionscheduler_logs.table.gz (14/35/fopen): adding to final database dump
+0024.072 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_commentmeta.table.tmpr0.gz (15/35/fopen): adding to final database dump
+0024.073 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_commentmeta.table.gz (16/35/fopen): adding to final database dump
+0024.074 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_comments.table.tmpr4.gz (17/35/fopen): adding to final database dump
+0024.075 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_comments.table.gz (18/35/fopen): adding to final database dump
+0024.076 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_links.table.tmpr0.gz (19/35/fopen): adding to final database dump
+0024.077 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_links.table.gz (20/35/fopen): adding to final database dump
+0024.078 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_postmeta.table.tmpr1831.gz (21/35/fopen): adding to final database dump
+0024.081 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_postmeta.table.gz (22/35/fopen): adding to final database dump
+0024.082 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_posts.table.tmpr875.gz (23/35/fopen): adding to final database dump
+0024.083 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_posts.table.gz (24/35/fopen): adding to final database dump
+0024.084 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_term_relationships.table.tmpr100001.gz (25/35/fopen): adding to final database dump
+0024.085 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_term_relationships.table.gz (26/35/fopen): adding to final database dump
+0024.085 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_term_taxonomy.table.tmpr10.gz (27/35/fopen): adding to final database dump
+0024.086 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_term_taxonomy.table.gz (28/35/fopen): adding to final database dump
+0024.087 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_termmeta.table.tmpr0.gz (29/35/fopen): adding to final database dump
+0024.088 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_termmeta.table.gz (30/35/fopen): adding to final database dump
+0024.089 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_terms.table.tmpr10.gz (31/35/fopen): adding to final database dump
+0024.090 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_terms.table.gz (32/35/fopen): adding to final database dump
+0024.090 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_album.table.tmpr0.gz (33/35/fopen): adding to final database dump
+0024.092 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_album.table.gz (34/35/fopen): adding to final database dump
+0024.093 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_album_gallery.table.tmpr0.gz (35/35/fopen): adding to final database dump
+0024.094 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_album_gallery.table.gz (36/35/fopen): adding to final database dump
+0024.095 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_file_paths.table.tmpr75.gz (37/35/fopen): adding to final database dump
+0024.096 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_file_paths.table.gz (38/35/fopen): adding to final database dump
+0024.098 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_gallery.table.tmpr2.gz (39/35/fopen): adding to final database dump
+0024.099 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_gallery.table.gz (40/35/fopen): adding to final database dump
+0024.100 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_image.table.tmpr74.gz (41/35/fopen): adding to final database dump
+0024.101 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_image.table.gz (42/35/fopen): adding to final database dump
+0024.102 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_image_comment.table.tmpr0.gz (43/35/fopen): adding to final database dump
+0024.103 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_image_comment.table.gz (44/35/fopen): adding to final database dump
+0024.104 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_image_rate.table.tmpr0.gz (45/35/fopen): adding to final database dump
+0024.105 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_image_rate.table.gz (46/35/fopen): adding to final database dump
+0024.106 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_image_tag.table.tmpr0.gz (47/35/fopen): adding to final database dump
+0024.107 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_image_tag.table.gz (48/35/fopen): adding to final database dump
+0024.108 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_shortcode.table.tmpr2.gz (49/35/fopen): adding to final database dump
+0024.109 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_shortcode.table.gz (50/35/fopen): adding to final database dump
+0024.110 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_theme.table.tmpr3.gz (51/35/fopen): adding to final database dump
+0024.111 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_bwg_theme.table.gz (52/35/fopen): adding to final database dump
+0024.112 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_e_events.table.tmpr2.gz (53/35/fopen): adding to final database dump
+0024.113 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_e_events.table.gz (54/35/fopen): adding to final database dump
+0024.114 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_legal_pages.table.tmpr7.gz (55/35/fopen): adding to final database dump
+0024.115 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_legal_pages.table.gz (56/35/fopen): adding to final database dump
+0024.116 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_litespeed_url.table.tmpr0.gz (57/35/fopen): adding to final database dump
+0024.117 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_litespeed_url.table.gz (58/35/fopen): adding to final database dump
+0024.117 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_litespeed_url_file.table.tmpr0.gz (59/35/fopen): adding to final database dump
+0024.118 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_litespeed_url_file.table.gz (60/35/fopen): adding to final database dump
+0024.119 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_lp_popups.table.tmpr0.gz (61/35/fopen): adding to final database dump
+0024.120 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_lp_popups.table.gz (62/35/fopen): adding to final database dump
+0024.121 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_wpforms_logs.table.tmpr0.gz (63/35/fopen): adding to final database dump
+0024.122 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_wpforms_logs.table.gz (64/35/fopen): adding to final database dump
+0024.122 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_wpforms_payment_meta.table.tmpr0.gz (65/35/fopen): adding to final database dump
+0024.123 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_wpforms_payment_meta.table.gz (66/35/fopen): adding to final database dump
+0024.124 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_wpforms_payments.table.tmpr0.gz (67/35/fopen): adding to final database dump
+0024.125 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_wpforms_payments.table.gz (68/35/fopen): adding to final database dump
+0024.126 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_wpforms_tasks_meta.table.tmpr9.gz (69/35/fopen): adding to final database dump
+0024.126 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db-table-wppg_wpforms_tasks_meta.table.gz (70/35/fopen): adding to final database dump
+0024.141 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db.gz: finished writing out complete database file (655 KB)
+0024.157 (0) Total database tables backed up: 35 (backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db.gz, size: 670808, sha1: 2b41eff2c0e3705509ed2d9b5168289379827e87, sha256: d6f3cd1222389dbcfee1c2649553890e593774610542babee25db3b3327073c6)
+0024.166 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-plugins.zip: plugins: This file has already been successfully uploaded
+0024.167 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-themes.zip: themes: This file has already been successfully uploaded
+0024.168 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-uploads.zip: uploads: This file has already been successfully uploaded
+0024.169 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-others.zip: others: This file has already been successfully uploaded
+0024.170 (0) backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0024.171 (0) Saving backup history. Total backup size: 295 MB
+0024.174 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0024.177 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0024.178 (0) No remote despatch: user chose no remote backup service
+0024.179 (0) Recording as successfully uploaded: backup_2024-03-22-1411_Franco039s_Landscaping_amp__027187e45fdb-db.gz
+0024.182 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0024.184 (0) Number of backup sets in history: 1; groups (db): 1
+0024.185 (0) Examining (for databases) backup set with group_id=0, nonce=027187e45fdb, datestamp=1711116666 (Mar 22 2024 14:11:06)
+0024.186 (0) This backup set is the backup set just made, so will not be deleted.
+0024.186 (0) Number of backup sets in history: 1; groups (files): 1
+0024.186 (0) Examining (for files) backup set with nonce=027187e45fdb, datestamp=1711116666 (Mar 22 2024 14:11:06)
+0024.186 (0) This backup set is the backup set just made, so will not be deleted.
+0024.187 (0) This backup set is the backup set just made, so will not be deleted.
+0024.187 (0) This backup set is the backup set just made, so will not be deleted.
+0024.188 (0) This backup set is the backup set just made, so will not be deleted.
+0024.188 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.188 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0024.191 (0) Resume backup (027187e45fdb, 0): finish run
+0024.193 (0) Decremented the semaphore (fd) by 1
+0024.194 (0) Semaphore (fd) unlocked
+0024.195 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0024.198 (0) No email will/can be sent - the user has not configured an email address.
+0024.199 (0) The backup succeeded and is now complete
